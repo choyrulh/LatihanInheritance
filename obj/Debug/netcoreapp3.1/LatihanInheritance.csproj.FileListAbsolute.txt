@@ -1,0 +1,11 @@
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.exe
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.deps.json
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.json
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.dev.json
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.dll
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.pdb
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csprojAssemblyReference.cache
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfoInputs.cache
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfo.cs
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.dll
+E:\Kuliah\Tugas\Semester 2\Pemrograman\C#\Penggunaan Inheritance\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.pdb
